@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties answer, or, Four propositions propounded to the Earle of Holland, Sir Philip Stapleton, and Sir John Holland which propositions was presented to both Houses of Parliament on Saturday last being the 23. of Iuly, 1642 : in behalfe of all the Lords and Commons of England : likewise the Parliaments censure of the nine Lords now resident in the north, Iuly 20, 1642 : namely, the Earle of Dover, Earle of Devonshire, Earle of Northampton, Earle of Munmouth, Earle of Coventry, the Lord Andiver, Lord Savill, Lord Capell, and Lord Gray of Ruthin : for their great contempts to the Parliament, drawne up into two heads, and assented to by both Houses of Parliament, July 20, 1642.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18922</idno><idno type="EEBO-CITATION">12248277</idno>
+  <idno type="VID">197369</idno>
+  <idno type="EEBO-PROQUEST">2240955709</idno>
+  
+            <idno type="STC">Wing C2091</idno>
+            <idno type="OCLC">12248277</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18922)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197369)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E108, no 6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties answer, or, Four propositions propounded to the Earle of Holland, Sir Philip Stapleton, and Sir John Holland which propositions was presented to both Houses of Parliament on Saturday last being the 23. of Iuly, 1642 : in behalfe of all the Lords and Commons of England : likewise the Parliaments censure of the nine Lords now resident in the north, Iuly 20, 1642 : namely, the Earle of Dover, Earle of Devonshire, Earle of Northampton, Earle of Munmouth, Earle of Coventry, the Lord Andiver, Lord Savill, Lord Capell, and Lord Gray of Ruthin : for their great contempts to the Parliament, drawne up into two heads, and assented to by both Houses of Parliament, July 20, 1642.</title>
+                  <author>England and Wales. Parliament. Parliaments censure of the nine lords now resident in the north, July 20, 1642.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Ryder,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly 25, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A summary of Parliament's actions against the royalist lords and of the King's answer to Parliament's "Propositions for peace, presented to the Kings most excellent majestie at Beverley" of 16 July 1642. For a text of the King's answer, see "The petition of the Lords and Commons assembled in Parliament: presented to His Majestie at Beverley ... With His Majesties answer thereunto".</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197369:1"/>
+            <p>The Kings Majesties ANSWER OR, foure Propositions propounded to the Earle of <hi>Holland,</hi> Sir <hi>Philip Stapleton,</hi> and Sir <hi>John Holland.</hi>
+            </p>
+            <p>Which Propositions was presented to both Houses of Parliament on Saturday last, being the 23. of <hi>Iuly,</hi> 1642. In the behalfe of all the Lords and Commons of <hi>England.</hi>
+            </p>
+            <p>Likewise the PARLIAMENTS Censure of the nine LORDS now resi<g ref="char:EOLhyphen"/>dent in the North, <hi>Iuly</hi> 20. 1642.</p>
+            <p>Namely;
+<list>
+                  <item>The Earle of <hi>Dover,</hi>
+                  </item>
+                  <item>Earle of <hi>Devonshire,</hi>
+                  </item>
+                  <item>Earle of <hi>Northampton,</hi>
+                  </item>
+                  <item>Earle of <hi>Munmouth,</hi>
+                  </item>
+                  <item>Earle of <hi>Coventry,</hi>
+                  </item>
+                  <item>The Lord <hi>Andiver,</hi>
+                  </item>
+                  <item>Lord <hi>Savill,</hi>
+                  </item>
+                  <item>Lord <hi>Capell,</hi>
+                  </item>
+                  <item>And Lord <hi>Gray</hi> of Ruthin.</item>
+               </list>
+            </p>
+            <p>For their great Contempts to the Par<g ref="char:EOLhyphen"/>liament, drawne up into two Heads, and assented to by both Houses of Par<g ref="char:EOLhyphen"/>liament, <hi>July</hi> 20 1642.</p>
+            <p>Ordered by the Lords and Commons that this be Printed and Published. <hi>Hen. Elsinge, Cler. D. C.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Ryder, Iuly</hi> 25. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:197369:2"/>
+            <pb facs="tcp:197369:2"/>
+            <head>The Parliaments censure of the nine Lords, now resident in the North, namely the Earle of <hi>Northampton, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">B</seg>Oth Houses having taken into conside<g ref="char:EOLhyphen"/>ration, the great and manifold misdemea<g ref="char:EOLhyphen"/>nors committed by the nine Lords, who are now in the Northerne parts of this Kingdome, striving and endea<g ref="char:EOLhyphen"/>vouring to beget a misunderstanding betwixt his Royall Majesty, and the high Court of Parliament.</p>
+            <p>Both Houses having taken into con<g ref="char:EOLhyphen"/>sideration the Actions of these Persons and the strength of the Malignant par<g ref="char:EOLhyphen"/>ty,
+<pb facs="tcp:197369:3"/>and what oppositions the Parlia<g ref="char:EOLhyphen"/>ment proceedings have thereby.</p>
+            <p>After some debate thereupon, a Mes<g ref="char:EOLhyphen"/>sage was sent to the Lords to desire a conference, where it was moved that their Lordships would be pleased for to proceed to censure against those 9. Lords, now resident at <hi>Yorke,</hi> for their contempt of the Parliament, where af<g ref="char:EOLhyphen"/>ter some time spent in debate thereof, it was assented unto, and resolved, that the next day they would deter<g ref="char:EOLhyphen"/>mine of it.</p>
+            <p>And upon Wednesday last being the twentieth day of this instant Moneth of <hi>Iuly,</hi> 1642.</p>
+            <p>The Lords then entered upon the communications of the aforesaid nine Lords. <hi>Viz.</hi> The Earle of <hi>Devonshire,</hi> the Earle of <hi>Northampton,</hi> the Earle of <hi>Dover,</hi> the Earle of <hi>Coventry,</hi> the Earle of <hi>Monmouth,</hi> the Lord <hi>Andever,</hi> the Lord <hi>Savill,</hi> the Lord <hi>Capell,</hi> and the Lord <hi>Grey</hi> of <hi>Ruthen,</hi> for their con<g ref="char:EOLhyphen"/>tempts
+<pb facs="tcp:197369:3"/>to the Parliament, and after some debate thereof, they passed cen<g ref="char:EOLhyphen"/>sure to this effect.</p>
+            <p>
+               <hi>First, That they should be uncapable of having either Vote or place during this present Parliament.</hi>
+            </p>
+            <p>
+               <hi>Secondly, That they should be uncapable of having the priviledge of Peeres during the said time, and that they should be im<g ref="char:EOLhyphen"/>prisoned in the Tower, upon their appea<g ref="char:EOLhyphen"/>rance or apprehension during the Houses pleasure.</hi>
+            </p>
+            <p>This is the full effect of Censure which both Houses resolved upon, at their meeting at a Conference being the 20. day of this present moneth of <hi>July,</hi> 1642.</p>
+            <p>There was also a Committee sate concerning the safety of the whole Kingdome, and another touching the Fines of Delinquents for the collecting them to a Head.</p>
+            <p>Vpon the 21. of this present moneth
+<pb facs="tcp:197369:4"/>there were Letters read a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Conference which came from the Right Honou<g ref="char:EOLhyphen"/>rable the Earle of <hi>Warwicke,</hi> intima<g ref="char:EOLhyphen"/>ting that he had sent two Ships more towards <hi>Hull</hi> according to directions.</p>
+            <p>And upon the same day the She<g ref="char:EOLhyphen"/>riffe of <hi>Worcester-shire</hi> appeared before the Honourable Court of Parliament, being sent for as a Delinquent for maintenance of the Commission of <hi>Array,</hi> and opposing Sergeant <hi>Wilde,</hi> a Worthy Member of the House of COMMONS, but after some time spent in examination thereof, they ordered that he should be committed to safe custody rill further consultation had thereabout.</p>
+            <p>And whereas His Royall and Sa<g ref="char:EOLhyphen"/>cred Majesty hath declared Sir <hi>Iohn Ho<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ham</hi> Traytor. It was resolved upon the <hi>Question</hi> by the Honourable COurt of Parliament, that Sir <hi>Iohn Hotham</hi> Knight, according to his relation hath don<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> noth<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng but in obedience to both
+<pb facs="tcp:197369:4"/>Houses of Parliament, and that this declaring of Sir <hi>Iohn Hotham</hi> Traytor, being a Member of the House of Com<g ref="char:EOLhyphen"/>mons is a high breach of the privi<g ref="char:EOLhyphen"/>ledge of Parliament.</p>
+            <p>And likewise declaring of the said Sir <hi>Iohn Hotham</hi> traitor, without due processe of the Law, is against the li<g ref="char:EOLhyphen"/>berty of the Subject, and against the Lawes of the Land.</p>
+            <closer>Ordered by the Lords and Com<g ref="char:EOLhyphen"/>mons, that this be Printed and published.
+<signed>Hen. Elsing, Cler. D.C.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb facs="tcp:197369:5"/>
+            <head>The Kings Majesties Answer to the Earle of <hi>Holland,</hi> which he reported to both Houses of Parliament on Saturday last being the 23 of <hi>Iuly,</hi> 1642.</head>
+            <p>The Earle of <hi>Holland</hi> and the rest of the Committee that were appointed by the Parliament to present their humble Pe<g ref="char:EOLhyphen"/>tition to his Majesty at <hi>Beverley</hi> in <hi>York<g ref="char:EOLhyphen"/>shire,</hi> after some time spent his Majesty returned this Answer. 1. That <hi>Hull</hi> should be forthwith delivered to him. 2. That the Ordinance for the <hi>Militia</hi> might be recalled, and his Majesty to have the disposing of it. 3. That the Shipping should be resigned to His Majesty. 4. That the Parliament should be rejourned to some other place. This is the full effect of his Majesties Answer which he returned by the Earle of <hi>Hol<g ref="char:EOLhyphen"/>land</hi> Sir <hi>Phillip Stapleton,</hi> and Sir <hi>Iohn Holland,</hi> which was presented by them to the High Court of Parliament up<g ref="char:EOLhyphen"/>on Saturday last, being the 23. of <hi>Ju<g ref="char:EOLhyphen"/>ly,</hi> 1642.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
